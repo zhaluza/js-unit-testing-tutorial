@@ -1,4 +1,4 @@
-# An Introduction to JavaScript Unit Testing With Mocha & Chai
+# JavaScript Unit Testing With Mocha & Chai
 
 ## Summary
 
